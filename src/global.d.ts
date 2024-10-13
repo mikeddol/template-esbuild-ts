@@ -1,71 +1,71 @@
 // images
-declare module "*.apng" {
+declare module '*.apng' {
   const src: string;
   export default src;
 }
-declare module "*.png" {
+declare module '*.png' {
   const src: string;
   export default src;
 }
-declare module "*.jpg" {
+declare module '*.jpg' {
   const src: string;
   export default src;
 }
-declare module "*.jpeg" {
+declare module '*.jpeg' {
   const src: string;
   export default src;
 }
-declare module "*.jfif" {
+declare module '*.jfif' {
   const src: string;
   export default src;
 }
-declare module "*.pjpeg" {
+declare module '*.pjpeg' {
   const src: string;
   export default src;
 }
-declare module "*.pjp" {
+declare module '*.pjp' {
   const src: string;
   export default src;
 }
-declare module "*.gif" {
+declare module '*.gif' {
   const src: string;
   export default src;
 }
-declare module "*.svg" {
+declare module '*.svg' {
   const src: string;
   export default src;
 }
-declare module "*.ico" {
+declare module '*.ico' {
   const src: string;
   export default src;
 }
-declare module "*.webp" {
+declare module '*.webp' {
   const src: string;
   export default src;
 }
-declare module "*.avif" {
+declare module '*.avif' {
   const src: string;
   export default src;
 }
 
 // Shaders
-declare module "*.frag" {
+declare module '*.frag' {
   const src: string;
   export default src;
 }
-declare module "*.vert" {
+declare module '*.vert' {
   const src: string;
   export default src;
 }
-declare module "*.glsl" {
+declare module '*.glsl' {
   const src: string;
   export default src;
 }
-declare module "*.vs" {
+declare module '*.vs' {
   const src: string;
   export default src;
 }
-declare module "*.fs" {
+declare module '*.fs' {
   const src: string;
   export default src;
 }
